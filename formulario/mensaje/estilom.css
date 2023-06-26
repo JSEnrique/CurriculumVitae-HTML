@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+}
+
+a{
+    display: block;
+    width: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    background-color: #E53854;
+    border-radius: 100px;
+    padding: 15px 30px;
+    margin: 0px 600px;
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: transparent;
+    border: 2px solid #E53854;
+    color: #E53854;
+}
